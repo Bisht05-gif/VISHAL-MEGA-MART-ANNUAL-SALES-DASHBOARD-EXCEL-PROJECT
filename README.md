@@ -1,4 +1,4 @@
-#  Vishal Mega Mart Annual Sales Report Dashboard (2022)
+#  Vishal Mega Mart Annual Sales Report Dashboard (Excel Project)
 
 ##  Project Overview
 This project presents an interactive sales analysis dashboard for **Vishal Mega Mart Annual Report 2022**. The dashboard provides a comprehensive view of sales performance, customer demographics, order status, channel performance, and regional sales distribution.
